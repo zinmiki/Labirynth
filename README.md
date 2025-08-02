@@ -34,3 +34,7 @@ python ./main.py
 ```
 ## Auto compleate warning
 for this to work you need to click `F6` four times to make it the smallest
+
+## Wykonane przez polaka
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b5/Animated-Flag-Poland.gif)
